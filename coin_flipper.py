@@ -9,7 +9,8 @@ tails = 0
 
 # Coin Flip function (include counter)
 def coin_flipper():
-    random.choice(headntail)
+    return random.choice(headntail)
+
 
 # Input from user asking if they want to flip a coin
 while True:
