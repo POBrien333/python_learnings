@@ -1,2 +1,2 @@
 # python_learnings
-various bits of Python code while learning programming
+Various bits of Python code while learning programming.
